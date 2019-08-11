@@ -35,11 +35,8 @@
     </nav>
 ```
 
-
-
-
-
-
+- footer 는 sticky-top으로 고정하여 스크롤을 올리거나 내려도 페이지의 맨 하단에 고정적으로 붙어서 디스플레이되도록 합니다.
+- footer 내부에 있는 (1)작성자 정보 와 (2)Top 버튼을 각각 좌우 정렬될 수 있도록 div 안에 span으로 각각 지정하여 justify-content:space-between 를 적용해줍니다. Top의 버튼은 button 태그를 적용했습니다.
 
 ```html
     <footer class="sticky-top bg-dark">
@@ -50,7 +47,11 @@
     </footer>
 ```
 
+## 2. 02_movie.html
 
+- 내부 카드를 구성했습니다.
+
+## 
 
 
 
@@ -73,10 +74,6 @@
 ​    margin-top:10px;
 
   }
-
-## 2. 02_movie.html
-
-
 
 ## 3. 03_detail_view.html
 
