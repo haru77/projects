@@ -50,23 +50,8 @@
     font-family: 'Noto Sans KR', sans-serif;
     text-align: center;
     justify-content: center;
-    /* background: #e6e6e6; */
     color: rgb(86, 197, 241);
   }
-  
-  /* header setting */
-  
-  /* .header_{
-    background-image: url(images/20198323-02.jpg);
-  } */
-  
-  /* .header-title{
-    font-family: 견고딕; 
-    text-align: center;
-    justify-content: center;
-    background: #e6e6e6;
-    color: skyblue;
-  } */
   
   .font-title {
     font-family: 'Noto Sans KR', sans-serif;
